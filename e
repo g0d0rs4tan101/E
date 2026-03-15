@@ -1,1 +1,1 @@
-echo hello
+shell:whoami
