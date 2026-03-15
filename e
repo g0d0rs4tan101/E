@@ -1,1 +1,1 @@
-shell:whoami
+calc
